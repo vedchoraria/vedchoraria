@@ -3,7 +3,7 @@
 # Hey, I'm Ved Choraria 👋
 
 Computer Science student · Full-stack developer · System builder  
-**NIT Raipur — B.Tech CSE '28 · CPI: 9.63**
+**NIT Raipur — B.Tech CSE '28 · CPI: 9.57**
 
 I enjoy building products that feel real — not just tutorial projects.  
 Mostly working across backend architecture, lifecycle logic, databases, and clean UI systems.  
